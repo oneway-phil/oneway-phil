@@ -11,7 +11,7 @@ Here are some information about me:
 - 🤔 My research direction is Image Recognition and Computer Vision
 - 💬 Ask me about deep learning
 - 📫 How to reach me: wangweiw97@163.com
-- ⚡ Fun fact: Billiards, table tennis，musical
+- ⚡ Fun fact: Billiards, table tennis, musical
 
 ### My projects
 
