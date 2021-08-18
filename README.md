@@ -22,6 +22,16 @@ Here are some information about me:
 - 📝**日常使用**：C++，Python
 - 💼**数据库**：
 
+
+### My projects
+
+1. algotithm improvement capsule network 
+
+
+
+
+
+
 ### Get in torch 
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/oneway-phil)
 [![知乎](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://www.zhihu.com/people/oneway-79)
