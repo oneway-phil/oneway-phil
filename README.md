@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: wangweiw97@163.com
 - 😄 : ...
 - ⚡ Fun fact: Billiards, table tennis，musical
---
+
 
 - 📚**专业**：控制科学与工程
 - 💻**研究方向**：图像识别、计算机视觉
-- 📝**Tool**：C++，Python
+- 📝**日常使用**：C++，Python
 - 💼**数据库**：
 
 
