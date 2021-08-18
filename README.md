@@ -2,17 +2,21 @@
 <p align="center">
   
 </p>
+
 ### Hi there 👋
-### <br/><!--oneway-phil is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### <br/>Here are some ideas to get you started:
-<br/>- 🔭 I’m currently working on ...
-<br/>- 🌱 I’m currently learning ...
-<br/>- 👯 I’m looking to collaborate on ...
-<br/>- 🤔 I’m looking for help with ...
-<br/>- 💬 Ask me about ...
-<br/>- 📫 How to reach me: ...
-<br/>- 😄 Pronouns: ...
-<br/>- ⚡ Fun fact: ...<br/>-->
+<!--
+**oneway-phil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+- 🔭 I’m currently working on University of Shanghai for Science and Technology
+- 🌱 I’m currently learning Control Science and Engineering
+- 👯 My research direction is Image Recognition and Computer Vision
+- 🤔 My main tools are C++,python
+- 💬 Ask me about deep learning
+- 📫 How to reach me: wangweiw97@163.com
+- 😄 : ...
+- ⚡ Fun fact: Billiards, table tennis，musical
+-->
 
 - 📚**专业**：控制科学与工程
 - 💻**研究方向**：图像识别、计算机视觉
@@ -20,7 +24,26 @@
 - 💼**数据库**：
 
 
+
+
+
+<details>
+<summary>GitHub统计信息</summary>
+
+<br/>
+
+> 动态太少，不好意思展示
+> 
+
+
 ![](https://github-readme-stats.vercel.app/api?username=oneway-phil)
+</a>
+<br/>
+
+
+
+
+
 
 
 
