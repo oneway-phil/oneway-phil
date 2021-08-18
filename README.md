@@ -10,8 +10,11 @@
 Here are some ideas to get you started:
 - 🔭 I’m currently working on University of Shanghai for Science and Technology
 - 🌱 I’m currently learning Control Science and Engineering
-- 👯 My research direction is Image Recognition and Computer Vision
-- 🤔 My main tools are C++,python
+- 👯 I use daily: 
+      ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
+      ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+      
+- 🤔 My research direction is Image Recognition and Computer Vision
 - 💬 Ask me about deep learning
 - 📫 How to reach me: wangweiw97@163.com
 - 😄 : ...
