@@ -4,7 +4,7 @@
 </p>
 
 ### Hi there 👋
-<!--
+!--
 **oneway-phil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: wangweiw97@163.com
 - 😄 : ...
 - ⚡ Fun fact: Billiards, table tennis，musical
--->
+--
 
 - 📚**专业**：控制科学与工程
 - 💻**研究方向**：图像识别、计算机视觉
