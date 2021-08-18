@@ -24,11 +24,12 @@ Here are some information about me:
 
   Algotithm improvement of capsule network 
 
-    [![Capsule-filter-routing](https://github-readme-stats.vercel.app/api/pin?username=oneway-phil&repo=Capsule-filter-routing)](https://github.com/oneway-phil/Capsule-filter-routing)
+   [![Capsule-filter-routing](https://github-readme-stats.vercel.app/api/pin?username=oneway-phil&repo=Capsule-filter-routing)](https://github.com/oneway-phil/Capsule-filter-routing)
 
 
   
   
+  And still on the way to research
   
 ### Get in torch 
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/oneway-phil)
