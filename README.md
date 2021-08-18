@@ -13,13 +13,6 @@ Here are some information about me:
 - 📫 How to reach me: wangweiw97@163.com
 - ⚡ Fun fact: Billiards, table tennis，musical
 
-
-- 📚**专业**：控制科学与工程
-- 💻**研究方向**：图像识别、计算机视觉
-- 📝**日常使用**：C++，Python
-- 💼**数据库**：
-
-
 ### My projects
 
   1. Algotithm improvement of capsule network 
@@ -36,12 +29,6 @@ Here are some information about me:
 [![知乎](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://www.zhihu.com/people/oneway-79)
 [![bilibili](https://img.shields.io/badge/bilibili-ff69b4?logo=bilibili)](https://space.bilibili.com/34628716)
 [![leetcode](https://img.shields.io/badge/leetcode-yellow?logo=leetcode)](https://leetcode-cn.com/u/he-yi-_phil/)
-
-
-
-
-
-
 
 
 <details>
