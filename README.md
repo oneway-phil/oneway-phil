@@ -29,7 +29,7 @@ Here are some information about me:
 
   
   
-      And I'm still on my way
+      And I'm still on my way!
   
 ### Get in torch 
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/oneway-phil)
