@@ -23,7 +23,7 @@ Here are some information about me:
 
 ### My projects
 
-1. algotithm improvement of capsule network 
+1. Algotithm improvement of capsule network 
 
     [![Capsule-filter-routing](https://github-readme-stats.vercel.app/api/pin?username=oneway-phil&repo=Capsule-filter-routing&theme=radical)](https://github.com/oneway-phil/Capsule-filter-routing)
 
