@@ -22,14 +22,14 @@ Here are some information about me:
 
 ### My projects
 
-  Algotithm improvement of capsule network 
+  1. Algotithm improvement of capsule network 
 
-   [![Capsule-filter-routing](https://github-readme-stats.vercel.app/api/pin?username=oneway-phil&repo=Capsule-filter-routing)](https://github.com/oneway-phil/Capsule-filter-routing)
+        [![Capsule-filter-routing](https://github-readme-stats.vercel.app/api/pin?username=oneway-phil&repo=Capsule-filter-routing)](https://github.com/oneway-phil/Capsule-filter-routing)
 
 
   
   
-  And still on the way to research
+  And I'm still on my way
   
 ### Get in torch 
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/oneway-phil)
