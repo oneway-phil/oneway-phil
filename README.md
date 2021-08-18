@@ -57,12 +57,3 @@ Here are some information about me:
 </a>
 <br/>
 
-
-
-
-
-
-
-
-
-
