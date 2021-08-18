@@ -27,7 +27,7 @@ Here are some information about me:
     [![Capsule-filter-routing](https://github-readme-stats.vercel.app/api/pin?username=oneway-phil&repo=Capsule-filter-routing)](https://github.com/oneway-phil/Capsule-filter-routing)
 
 
-  And still on the way to research
+And still on the way to research
   
   
   
