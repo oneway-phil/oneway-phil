@@ -1,6 +1,4 @@
 ### Hi there 👋
-!--
-
 🤓 I'm oneway Phil 王伟, a graduating graduate student | 🔭 lonely patient 😄.
 
 
@@ -25,8 +23,9 @@ Here are some information about me:
 
 ### My projects
 
-1. algotithm improvement capsule network 
+1. algotithm improvement of capsule network 
 
+       [![Awesome Technical Communication](https://github-readme-stats.vercel.app/api/pin?username=oneway-phil&repo=Capsule-filter-routing&theme=radical)](https://github.com/oneway-phil/Capsule-filter-routing)
 
 
 
