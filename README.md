@@ -13,7 +13,7 @@ Here are some information about me:
 - 📫 How to reach me: wangweiw97@163.com
 - ⚡ Fun fact: Billiards, table tennis, musical
 
-### My projects
+### My project
 
   1. Algotithm improvement of capsule network 
 
