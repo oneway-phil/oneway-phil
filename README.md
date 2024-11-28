@@ -24,11 +24,6 @@ Here are some information about me:
   
       And I'm still on my way!
   
-### Get in torch 
-[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/oneway-phil)
-[![知乎](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://www.zhihu.com/people/oneway-79)
-[![bilibili](https://img.shields.io/badge/bilibili-ff69b4?logo=bilibili)](https://space.bilibili.com/34628716)
-[![leetcode](https://img.shields.io/badge/leetcode-yellow?logo=leetcode)](https://leetcode-cn.com/u/he-yi-_phil/)
 
 
 <details>
